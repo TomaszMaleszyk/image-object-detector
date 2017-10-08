@@ -1,0 +1,40 @@
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.exe.config
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.exe.manifest
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.application
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.exe
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.pdb
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoBinaryzacja.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoGlowne.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoHistogramu.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoJasnoscOperacje.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoTransformacjiGeometrycznych.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.Properties.Resources.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.csproj.GenerateResource.Cache
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.TrustInfo.xml
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.exe.manifest
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.application
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.exe
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.pdb
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoDetekcjiObiektu.resources
+C:\Users\Tomasz\Desktop\RozpoznawanieObiektow\RozpoznawanieObiektow\bin\x64\Debug\BibliotekaMatlab.dll
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.exe.config
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.exe.manifest
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.application
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.exe
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\bin\x64\Debug\RozpoznawanieObiektow.pdb
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\bin\x64\Debug\BibliotekaMatlab.dll
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoBinaryzacja.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoDetekcjiObiektu.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoGlowne.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoHistogramu.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoJasnoscOperacje.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.OknoTransformacjiGeometrycznych.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.Properties.Resources.resources
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.csproj.GenerateResource.Cache
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.TrustInfo.xml
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.exe.manifest
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.application
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.exe
+C:\Users\Tomasz\Desktop\Algorytmy szybkiego rozpoznawania obiektów na obrazach cyfrowych, program\RozpoznawanieObiektow\obj\x64\Debug\RozpoznawanieObiektow.pdb
