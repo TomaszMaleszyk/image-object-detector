@@ -1,4 +1,4 @@
-Digital image object detector
+## Digital image object detector
 
 This application was made on my master’s defence on Katolicki Uniwersytet Lubelski. 
 It main goal is detecting objects chosen by user. 
