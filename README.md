@@ -15,3 +15,5 @@ On detecting objects consist a few levels. Every of this levels represent operat
 •	decision process on recognition operation.
 
 It’s desktop application realized in C# and Matlab language.
+
+⇒ Visual Studio 2015, .NET 4.5, Windows Forms, Matlab R2015a, Matlab Runtime 8.5
